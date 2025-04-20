@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+matplotlib==3.9.0
+librosa
+gitpython
